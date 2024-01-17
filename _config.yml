@@ -1,0 +1,46 @@
+# Site settings
+title: TrendyMarket
+description: '핫한 상품들로 가득한 트렌디한 쇼핑 세상'
+url: 'https://joi049803.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+timezone: Asia/Seoul
+
+author:
+  name: 'joi049803'
+  email: joi049803@gmail.com.com
+  twitter_username: 
+  facebook_username: 
+  github_username: 
+  linkedin_username: 
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
