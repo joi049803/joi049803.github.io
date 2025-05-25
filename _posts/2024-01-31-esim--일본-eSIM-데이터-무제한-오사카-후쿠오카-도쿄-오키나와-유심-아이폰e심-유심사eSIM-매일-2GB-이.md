@@ -58,7 +58,7 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7007189209&traceid=V0-153&itemId=17206338303&vendorItemId=84378274854" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7007189209&traceid=V0-153&itemId=17206338303&vendorItemId=84378274854" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7afc/28a3cc3c166492d8b1a4aadc12bd02e25b355c6fd00b46490c48efdc667d.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -78,7 +78,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 4개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7007189209&traceid=V0-153&itemId=17206338303&vendorItemId=84378274854" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7007189209&traceid=V0-153&itemId=17206338303&vendorItemId=84378274854" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,7 +87,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/653d548a-477c-493b-8d36-f222d0e81a25.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -107,7 +107,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 34개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,7 +116,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654001&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654001&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/df380e1b-9055-452d-85ae-dfeb631de083.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -136,7 +136,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 5개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654001&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654001&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,7 +145,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000739901&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000739901&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/927790e2-1947-472d-a243-4f076b5cb1d0.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -165,7 +165,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 19개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000739901&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000739901&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,7 +174,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7177703727&traceid=V0-153&itemId=18096733873&vendorItemId=85249097020" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7177703727&traceid=V0-153&itemId=18096733873&vendorItemId=85249097020" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/48cc/50be18236eb867f7d0e702bc77459bef0e84cb9865f5a01d48be53a18f29.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -194,7 +194,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 60개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7177703727&traceid=V0-153&itemId=18096733873&vendorItemId=85249097020" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7177703727&traceid=V0-153&itemId=18096733873&vendorItemId=85249097020" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,7 +203,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0eae/6f20cf2667f9516769c5410eff4fc6d3e4a66898b85a326938d63f92eeba.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -223,7 +223,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 7개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,7 +232,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654014&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654014&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/369e373a-50b1-4175-a9ef-c429ba7bc105.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -252,7 +252,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654014&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654014&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,7 +261,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654018&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654018&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/b2fbe65e-f7ee-448b-b2bb-9320ebb08426.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -281,7 +281,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 6개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000654018&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000654018&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,7 +290,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d58b/9174ebda8e0c2bc272eff089726cead7f58fc52e134b22b5fda81a206688.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -310,7 +310,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 10개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=trendymarket&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=trendymarket&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,7 +319,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000653998&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000653998&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/7c6c79d0-1ceb-460f-8022-bff1da1b8103.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -339,7 +339,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=trendymarket&pageKey=10000000653998&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=trendymarket&pageKey=10000000653998&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
